@@ -4,33 +4,64 @@
 		<meta charset="utf-8" />
 		<link rel="icon" href="/favicon.svg" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<link href="/_app/immutable/entry/start.DsjHHJBK.js" rel="modulepreload">
-		<link href="/_app/immutable/chunks/KlYwPEe9.js" rel="modulepreload">
-		<link href="/_app/immutable/chunks/NXNUYm5R.js" rel="modulepreload">
-		<link href="/_app/immutable/chunks/B3WmjTHw.js" rel="modulepreload">
-		<link href="/_app/immutable/chunks/C5Myq0ev.js" rel="modulepreload">
-		<link href="/_app/immutable/chunks/BPj0eTeb.js" rel="modulepreload">
-		<link href="/_app/immutable/entry/app.xFyr4dIW.js" rel="modulepreload">
-		<link href="/_app/immutable/chunks/BdEwO73Z.js" rel="modulepreload">
-		<link href="/_app/immutable/chunks/BKvgoUX8.js" rel="modulepreload">
-		<link href="/_app/immutable/chunks/B9VCaSfB.js" rel="modulepreload">
-		<link href="/_app/immutable/chunks/DBTBs1nM.js" rel="modulepreload">
-		<link href="/_app/immutable/chunks/C52j-9-s.js" rel="modulepreload">
+		<style>
+			/* Critical CSS: prevent blank page while full stylesheet loads */
+			:root {
+				--background: oklch(1 0 0);
+				--foreground: oklch(0.145 0 0);
+				--border: oklch(0.922 0 0);
+				--card: oklch(1 0 0);
+				--card-foreground: oklch(0.145 0 0);
+				--muted-foreground: oklch(0.556 0 0);
+				--primary: oklch(0.525 0.223 3.958);
+				--accent: oklch(0.97 0 0);
+				--accent-foreground: oklch(0.205 0 0);
+			}
+			.dark {
+				--background: oklch(0.145 0 0);
+				--foreground: oklch(0.985 0 0);
+				--border: oklch(1 0 0 / 10%);
+				--card: oklch(0.205 0 0);
+				--card-foreground: oklch(0.985 0 0);
+				--muted-foreground: oklch(0.708 0 0);
+				--primary: oklch(0.459 0.187 3.815);
+				--accent: oklch(0.269 0 0);
+				--accent-foreground: oklch(0.985 0 0);
+			}
+			body {
+				margin: 0;
+				background-color: var(--background);
+				color: var(--foreground);
+				font-family: system-ui, -apple-system, sans-serif;
+			}
+		</style>
+		<link href="/_app/immutable/entry/start.DFbhfbjN.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/BQM6Xjur.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/BfiRgxMJ.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/YyePfKb1.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/DWqyh0vJ.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/vLSJTl-1.js" rel="modulepreload">
+		<link href="/_app/immutable/entry/app.Cu2T8LsH.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/DLyAXuAt.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/0ALejEqp.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/BO15Cq4J.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/DUuUBlbj.js" rel="modulepreload">
+		<link href="/_app/immutable/chunks/DtiN_Shy.js" rel="modulepreload">
 		
 	</head>
 	<body data-sveltekit-preload-data="hover">
 		<div style="display: contents">
 			<script>
 				{
-					__sveltekit_1ke96pr = {
+					__sveltekit_r671zp = {
 						base: ""
 					};
 
 					const element = document.currentScript.parentElement;
 
 					Promise.all([
-						import("/_app/immutable/entry/start.DsjHHJBK.js"),
-						import("/_app/immutable/entry/app.xFyr4dIW.js")
+						import("/_app/immutable/entry/start.DFbhfbjN.js"),
+						import("/_app/immutable/entry/app.Cu2T8LsH.js")
 					]).then(([kit, app]) => {
 						kit.start(app, element);
 					});
