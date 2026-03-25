@@ -1,1 +1,0 @@
-import{P as f,v as u,ak as _,al as o,m as t,S as g,ac as l,A as i,y as d,N as m,R as p}from"./C_Sz96Kw.js";function C(n,r){let a=null,y=t;var s;if(t){a=m;for(var e=p(document.head);e!==null&&(e.nodeType!==g||e.data!==n);)e=l(e);if(e===null)i(!1);else{var E=l(e);e.remove(),d(E)}}t||(s=document.head.appendChild(f()));try{u(()=>r(s),_|o)}finally{y&&(i(!0),d(a))}}export{C as h};
