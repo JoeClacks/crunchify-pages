@@ -1,0 +1,27 @@
+{
+  "name": "LitRPG Books",
+  "slug": "litrpg-books",
+  "category": "Books",
+  "description": "Rank the best LitRPG novels from S-tier masterpieces to ones you'd skip.",
+  "tiers": [
+    { "name": "S", "color": "#ff7f7f" },
+    { "name": "A", "color": "#ffbf7f" },
+    { "name": "B", "color": "#ffdf7f" },
+    { "name": "C", "color": "#ffff7f" },
+    { "name": "D", "color": "#bfff7f" },
+    { "name": "Currently Reading", "color": "#7fbfff" }
+  ],
+  "items": [
+    {
+      "id": "defiance-of-the-fall",
+      "label": "Defiance of the Fall",
+      "externalIds": {
+        "goodreads": "58127647",
+        "asin": "B08VF3TKG2"
+      },
+      "links": [
+        { "label": "Amazon", "url": "https://www.amazon.com/dp/B08VF3TKG2" }
+      ]
+    }
+  ]
+}
