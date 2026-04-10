@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+		<link rel="icon" type="image/png" href="../assets/favicon-96x96.png" sizes="96x96" />
+		<link rel="icon" type="image/svg+xml" href="../assets/favicon.svg" />
+		<link rel="shortcut icon" href="../assets/favicon.ico" />
+		<link rel="apple-touch-icon" sizes="180x180" href="../assets/apple-touch-icon.png" />
+		<meta name="apple-mobile-web-app-title" content="Crunchify" />
+		<!-- <link rel="manifest" href="../assets/site.webmanifest" /> -->
+
+		<style>
+			/* Critical CSS: prevent blank page while full stylesheet loads */
+			:root {
+				--background: oklch(1 0 0);
+				--foreground: oklch(0.145 0 0);
+				--border: oklch(0.922 0 0);
+				--card: oklch(1 0 0);
+				--card-foreground: oklch(0.145 0 0);
+				--muted-foreground: oklch(0.556 0 0);
+				--primary: oklch(0.525 0.223 3.958);
+				--accent: oklch(0.97 0 0);
+				--accent-foreground: oklch(0.205 0 0);
+			}
+			.dark {
+				--background: oklch(0.145 0 0);
+				--foreground: oklch(0.985 0 0);
+				--border: oklch(1 0 0 / 10%);
+				--card: oklch(0.205 0 0);
+				--card-foreground: oklch(0.985 0 0);
+				--muted-foreground: oklch(0.708 0 0);
+				--primary: oklch(0.459 0.187 3.815);
+				--accent: oklch(0.269 0 0);
+				--accent-foreground: oklch(0.985 0 0);
+			}
+			body {
+				margin: 0;
+				background-color: var(--background);
+				color: var(--foreground);
+				font-family: system-ui, -apple-system, sans-serif;
+			}
+		</style>
+		<link href="../_app/immutable/entry/start.DU6ebo2x.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/CFfIT2kF.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/DFTTNj0Y.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/CA0PpN_i.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/CcDGdc_4.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/BzbkaKpR.js" rel="modulepreload">
+		<link href="../_app/immutable/entry/app.AXzq9j3l.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/Cg57stQp.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/DyNIQwjN.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/ByYXHL0q.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/1AHMBv0s.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/D4XAPEb3.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/BAnuohi8.js" rel="modulepreload">
+		<link href="../_app/immutable/nodes/0.fNX1NLzg.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/BHC-GfOH.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/DRriamoB.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/VY8LRR3-.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/Dj50mBe2.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/CZj6U0ht.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/DWL9eyBr.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/B4lcWPEM.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/DxDqDOL7.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/JBqakXvz.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/DX6rZLP_.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/DXadMFRd.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/DByjzIFM.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/DNxksE_2.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/CCDkkDY5.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/rJOV2pia.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/COU3RKcM.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/Ca9DTOKz.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/87yHDY7U.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/7B4ZY5wt.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/DCtp0KBw.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/kZGCf68r.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/BbP0b0Hh.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/CrNqyhsF.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/Ee5dQdOi.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/CpfSTg__.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/CskTKoTI.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/8XalKzyQ.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/CcwDFGq-.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/Cl8o2T_w.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/mE9mYzuv.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/_VGQQEwR.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/BZiLpd1L.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/Bzm8McTY.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/DFzGpSUU.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/ClFFs52X.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/D82QqEmR.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/BqxlTqOX.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/BZT-fsDY.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/CyoAiVj4.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/xmnBJbAg.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/B71LhVBT.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/D8OxOw19.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/D_zyteLf.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/D9F0guzs.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/C3QNBRHh.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/Iff-hcaE.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/BgZm1NBV.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/BR9DQopl.js" rel="modulepreload">
+		<link href="../_app/immutable/nodes/45.BVJjIgiJ.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/C-Q-p5lo.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/Cv52g3g1.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/BnpKeTGD.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/DFIE_jk5.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/B0NYMpWz.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/_XD0_QFJ.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/COCphjWn.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/BFJA7tzq.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/GN8vKdp1.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/I3dZ4lKU.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/B6COw0Qm.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/DJPHtsKH.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/gA7LTI5u.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/CkE74_8v.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/BfNpuEjx.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/CGPmR_j4.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/6BOLqXOC.js" rel="modulepreload">
+		<link href="../_app/immutable/chunks/DFgv-26U.js" rel="modulepreload">
+		<!--1funsus--><!--[-1--><!--]--> <!----><script>(function setInitialMode({ defaultMode = "system", themeColors: themeColors2, darkClassNames: darkClassNames2 = ["dark"], lightClassNames: lightClassNames2 = [], defaultTheme = "", modeStorageKey: modeStorageKey2 = "mode-watcher-mode", themeStorageKey: themeStorageKey2 = "mode-watcher-theme" }) {
+  const rootEl = document.documentElement;
+  const mode = localStorage.getItem(modeStorageKey2) ?? defaultMode;
+  const theme = localStorage.getItem(themeStorageKey2) ?? defaultTheme;
+  const light = mode === "light" || mode === "system" && window.matchMedia("(prefers-color-scheme: light)").matches;
+  if (light) {
+    if (darkClassNames2.length)
+      rootEl.classList.remove(...darkClassNames2.filter(Boolean));
+    if (lightClassNames2.length)
+      rootEl.classList.add(...lightClassNames2.filter(Boolean));
+  } else {
+    if (lightClassNames2.length)
+      rootEl.classList.remove(...lightClassNames2.filter(Boolean));
+    if (darkClassNames2.length)
+      rootEl.classList.add(...darkClassNames2.filter(Boolean));
+  }
+  rootEl.style.colorScheme = light ? "light" : "dark";
+  if (themeColors2) {
+    const themeMetaEl = document.querySelector('meta[name="theme-color"]');
+    if (themeMetaEl) {
+      themeMetaEl.setAttribute("content", mode === "light" ? themeColors2.light : themeColors2.dark);
+    }
+  }
+  if (theme) {
+    rootEl.setAttribute("data-theme", theme);
+    localStorage.setItem(themeStorageKey2, theme);
+  }
+  localStorage.setItem(modeStorageKey2, mode);
+})({"defaultMode":"system","darkClassNames":["dark"],"lightClassNames":[],"defaultTheme":"","modeStorageKey":"mode-watcher-mode","themeStorageKey":"mode-watcher-theme"});</script><!----><!----><!--qlwxu0--><meta name="description" content="A clean, offline-first task manager. Create tasks with optional due dates and priority levels, organise into lists, and mark complete. All data stays private in your browser."/> <meta property="og:title" content="To-Do List - Crunchify.net"/> <meta property="og:description" content="A clean, offline-first task manager. Create tasks with optional due dates and priority levels, organise into lists, and mark complete. All data stays private in your browser."/> <meta property="og:url" content="https://crunchify.net/tools/todo"/> <meta property="og:type" content="website"/> <meta property="og:image" content="https://crunchify.net/assets/og-default.png"/> <link rel="canonical" href="https://crunchify.net/tools/todo"/> <!----><script type="application/ld+json">{"@context":"https://schema.org","@type":"WebApplication","name":"To-Do List","url":"https://crunchify.net/tools/todo","description":"A clean, offline-first task manager. Create tasks with optional due dates and priority levels, organise into lists, and mark complete. All data stays private in your browser.","applicationCategory":"UtilityApplication","operatingSystem":"Any","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"author":{"@type":"Organization","name":"Crunchify.net","url":"https://crunchify.net"}}</script><!----><!----><title>To-Do List - Crunchify.net</title>
+		<link href="../_app/immutable/assets/0.DbVVjVb9.css" rel="stylesheet">
+	</head>
+	<body data-sveltekit-preload-data="hover">
+		<div style="display: contents"><!--[--><!--[0--><!--[--><!--[-1--><!--]--><!----> <div class="flex min-h-screen flex-col"><header class="sticky top-0 z-50 w-full border-b border-border bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60"><div class="mx-auto flex h-14 max-w-5xl items-center px-4"><a href="/" class="mr-4 flex items-center gap-2 font-bold text-lg">Crunchify.net</a> <div class="ml-auto flex items-center gap-2"><!--[-1--><button data-slot="button" class="focus-visible:border-ring focus-visible:ring-ring/50 aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive dark:aria-invalid:border-destructive/50 rounded-4xl border border-transparent bg-clip-padding text-sm font-medium focus-visible:ring-[3px] active:translate-y-px aria-invalid:ring-[3px] [&amp;_svg:not([class*='size-'])]:size-4 group/button inline-flex shrink-0 items-center justify-center whitespace-nowrap transition-all outline-none select-none disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg]:shrink-0 hover:bg-muted hover:text-foreground dark:hover:bg-muted/50 aria-expanded:bg-muted aria-expanded:text-foreground size-9" type="button" aria-label="Toggle theme"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tabler-icon tabler-icon-sun h-5 w-5 rotate-0 scale-100 transition-all dark:-rotate-90 dark:scale-0"><!--[--><!----><path d="M8 12a4 4 0 1 0 8 0a4 4 0 1 0 -8 0"><!----></path><!----><!----><path d="M3 12h1m8 -9v1m8 8h1m-9 8v1m-6.4 -15.4l.7 .7m12.1 -.7l-.7 .7m0 11.4l.7 .7m-12.1 -.7l-.7 .7"><!----></path><!----><!--]--><!--[--><!--[--><!--]--><!--]--></svg><!----> <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tabler-icon tabler-icon-moon absolute h-5 w-5 rotate-90 scale-0 transition-all dark:rotate-0 dark:scale-100"><!--[--><!----><path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454l0 .008"><!----></path><!----><!--]--><!--[--><!--[--><!--]--><!--]--></svg><!----><!----></button><!--]--><!----> <div class="hidden md:block"><!--[--><!--[--><!--[--><!--[--><!--$s1--><!--[0--><!--[-1--><button data-slot="dropdown-menu-trigger" class="focus-visible:border-ring focus-visible:ring-ring/50 aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive dark:aria-invalid:border-destructive/50 rounded-4xl border border-transparent bg-clip-padding text-sm font-medium focus-visible:ring-[3px] active:translate-y-px aria-invalid:ring-[3px] [&amp;_svg:not([class*='size-'])]:size-4 group/button inline-flex shrink-0 items-center justify-center whitespace-nowrap transition-all outline-none select-none disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg]:shrink-0 hover:bg-muted hover:text-foreground dark:hover:bg-muted/50 aria-expanded:bg-muted aria-expanded:text-foreground size-9" type="button" aria-label="Open menu" id="bits-s1" aria-haspopup="menu" aria-expanded="false" data-state="closed" data-dropdown-menu-trigger=""><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tabler-icon tabler-icon-menu-2 h-5 w-5"><!--[--><!----><path d="M4 6l16 0"><!----></path><!----><!----><path d="M4 12l16 0"><!----></path><!----><!----><path d="M4 18l16 0"><!----></path><!----><!--]--><!--[--><!--[--><!--]--><!--]--></svg><!----></button><!--]--><!----><!--]--><!----><!--]--><!--]--> <!--[--><!--[--><!--[-1--><!--]--><!--]--><!--]--><!----><!----><!--]--><!--]--></div> <!--[--><!--[--><!--[-1--><button data-slot="button" class="focus-visible:border-ring focus-visible:ring-ring/50 aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive dark:aria-invalid:border-destructive/50 rounded-4xl border border-transparent bg-clip-padding text-sm font-medium focus-visible:ring-[3px] active:translate-y-px aria-invalid:ring-[3px] [&amp;_svg:not([class*='size-'])]:size-4 group/button inline-flex shrink-0 items-center justify-center whitespace-nowrap transition-all outline-none select-none disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg]:shrink-0 hover:bg-muted hover:text-foreground dark:hover:bg-muted/50 aria-expanded:bg-muted aria-expanded:text-foreground size-9 md:hidden" type="button" aria-label="Open menu"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tabler-icon tabler-icon-menu-2 h-5 w-5"><!--[--><!----><path d="M4 6l16 0"><!----></path><!----><!----><path d="M4 12l16 0"><!----></path><!----><!----><path d="M4 18l16 0"><!----></path><!----><!--]--><!--[--><!--[--><!--]--><!--]--></svg><!----></button><!--]--><!----> <!--[--><!--[--><!--[-1--><!--]--><!--]--><!--]--><!----><!--]--><!--]--></div></div></header><!----> <main class="mx-auto w-full max-w-5xl flex-1 px-4 py-6"><!--[-1--><!--[--><!----> <div><h1 class="text-3xl font-bold tracking-tight">To-Do List</h1> <p class="mt-1 text-muted-foreground">Manage your tasks — private, offline, and always available.</p></div><!----> <div class="flex border rounded-lg overflow-hidden min-h-[600px] bg-background"><aside class="w-56 border-r bg-muted/30 flex-col hidden md:flex"><div class="p-3 space-y-0.5"><!--[--><button class="w-full flex items-center justify-between px-3 py-1.5 rounded-md text-sm transition-colors bg-primary text-primary-foreground"><span>All Tasks</span> <!--[-1--><!--]--></button><button class="w-full flex items-center justify-between px-3 py-1.5 rounded-md text-sm transition-colors hover:bg-muted text-foreground"><span>Today</span> <!--[-1--><!--]--></button><button class="w-full flex items-center justify-between px-3 py-1.5 rounded-md text-sm transition-colors hover:bg-muted text-foreground"><span>Upcoming</span> <!--[-1--><!--]--></button><button class="w-full flex items-center justify-between px-3 py-1.5 rounded-md text-sm transition-colors hover:bg-muted text-foreground"><span>No Due Date</span> <!--[-1--><!--]--></button><!--]--></div> <!--[--><!--$s2--><!--[-1--><div data-slot="separator" class="bg-border shrink-0 data-[orientation=horizontal]:h-px data-[orientation=horizontal]:w-full data-[orientation=vertical]:w-px data-[orientation=vertical]:h-full" id="bits-s2" role="separator" aria-orientation="horizontal" data-orientation="horizontal" data-separator-root=""><!----></div><!--]--><!--]--><!----> <div class="p-3 flex-1 space-y-0.5 overflow-y-auto"><!--[--><!--]--> <!--[-1--><button class="w-full flex items-center gap-2 px-3 py-1.5 rounded-md text-sm text-muted-foreground hover:bg-muted hover:text-foreground transition-colors"><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tabler-icon tabler-icon-plus "><!--[--><!----><path d="M12 5l0 14"><!----></path><!----><!----><path d="M5 12l14 0"><!----></path><!----><!--]--><!--[--><!--[--><!--]--><!--]--></svg><!----> <span>Add list</span></button><!--]--></div></aside> <div class="flex-1 min-w-0 flex flex-col"><div class="flex items-center justify-between gap-2 px-4 py-3 border-b"><button class="md:hidden flex items-center gap-1 text-sm font-medium hover:text-primary transition-colors"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tabler-icon tabler-icon-list-check "><!--[--><!----><path d="M3.5 5.5l1.5 1.5l2.5 -2.5"><!----></path><!----><!----><path d="M3.5 11.5l1.5 1.5l2.5 -2.5"><!----></path><!----><!----><path d="M3.5 17.5l1.5 1.5l2.5 -2.5"><!----></path><!----><!----><path d="M11 6l9 0"><!----></path><!----><!----><path d="M11 12l9 0"><!----></path><!----><!----><path d="M11 18l9 0"><!----></path><!----><!--]--><!--[--><!--[--><!--]--><!--]--></svg><!----> <span>All Tasks</span> <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tabler-icon tabler-icon-chevron-down "><!--[--><!----><path d="M6 9l6 6l6 -6"><!----></path><!----><!--]--><!--[--><!--[--><!--]--><!--]--></svg><!----></button> <span class="hidden md:block text-sm font-medium truncate">All Tasks</span> <div class="flex items-center gap-2"><select class="text-xs border rounded-md px-2 py-1 bg-background text-foreground h-7" aria-label="Sort tasks"><option value="dueDate" selected="">Due date</option><option value="priority">Priority</option><option value="createdAt">Created</option><option value="manual">Manual</option></select> <!--[-1--><button data-slot="button" class="focus-visible:border-ring focus-visible:ring-ring/50 aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive dark:aria-invalid:border-destructive/50 rounded-4xl border border-transparent bg-clip-padding font-medium focus-visible:ring-[3px] active:translate-y-px aria-invalid:ring-[3px] [&amp;_svg:not([class*='size-'])]:size-4 group/button inline-flex shrink-0 items-center justify-center whitespace-nowrap transition-all outline-none select-none disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg]:shrink-0 bg-primary text-primary-foreground hover:bg-primary/80 px-3 has-data-[icon=inline-end]:pr-2 has-data-[icon=inline-start]:pl-2 h-7 text-xs gap-1" type="button"><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="tabler-icon tabler-icon-plus "><!--[--><!----><path d="M12 5l0 14"><!----></path><!----><!----><path d="M5 12l14 0"><!----></path><!----><!--]--><!--[--><!--[--><!--]--><!--]--></svg><!----> <span class="hidden sm:inline">New</span><!----></button><!--]--><!----></div></div> <!--[-1--><!--]--> <!--[-1--><!--]--> <div class="flex-1 overflow-y-auto"><!--[0--><div class="p-8 text-center text-muted-foreground text-sm">Loading…</div><!--]--></div> <div class="px-4 py-2 border-t text-xs text-muted-foreground hidden sm:block"><kbd class="font-mono bg-muted px-1 rounded">n</kbd> new task · <kbd class="font-mono bg-muted px-1 rounded">Enter</kbd> save · <kbd class="font-mono bg-muted px-1 rounded">Esc</kbd> cancel</div></div> <!--[-1--><!--]--></div> <!--[-1--><!--]--> <div class="prose dark:prose-invert max-w-none text-sm text-muted-foreground"><h2 class="text-lg font-semibold text-foreground">How It Works</h2> <h2>How It Works</h2> <p>This to-do list runs entirely in your browser using IndexedDB — your tasks never leave your
+		device and are available offline. There are no accounts, no servers, and no syncing.</p> <h3>Organising tasks</h3> <p>Create named lists (Work, Personal, Shopping) to group related tasks. Smart lists — Today,
+		Upcoming, and No Due Date — automatically filter tasks based on their due date, giving you a
+		quick overview without manual sorting.</p> <h3>Sorting and reordering</h3> <p>Sort tasks by due date, priority, creation date, or manually. In manual mode, drag tasks to
+		reorder them on desktop, or use the up/down arrows on any device.</p> <h3>Subtasks and priorities</h3> <p>Break complex tasks into subtasks using the detail panel. Assign a priority (None, Low, Medium,
+		High) to visually distinguish urgent work — red dot for high, amber for medium, blue for low.</p> <h3>GTD basics</h3> <p>Getting Things Done (GTD) recommends capturing every commitment into a trusted system so your
+		mind stays clear. Use the inbox (No List) as a capture area, then triage into project lists.
+		Review Today and Upcoming each morning to keep your day focused.</p><!----></div><!----><!--]--><!--]--><!----></main> <footer class="border-t border-border"><div class="mx-auto flex max-w-5xl items-center justify-between px-4 py-4 text-sm text-muted-foreground"><p>Crunchify.net — Free tools, no ads, no tracking.</p></div></footer></div><!--]--><!--]--> <!--[-1--><!--]--><!--]-->
+			
+			<script>
+				{
+					__sveltekit_5mqo42 = {
+						base: new URL("..", location).pathname.slice(0, -1)
+					};
+
+					const element = document.currentScript.parentElement;
+
+					Promise.all([
+						import("../_app/immutable/entry/start.DU6ebo2x.js"),
+						import("../_app/immutable/entry/app.AXzq9j3l.js")
+					]).then(([kit, app]) => {
+						kit.start(app, element, {
+							node_ids: [0, 45],
+							data: [null,null],
+							form: null,
+							error: null
+						});
+					});
+				}
+			</script>
+		</div>
+	</body>
+</html>

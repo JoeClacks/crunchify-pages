@@ -21,7 +21,8 @@
       },
       "links": [
         { "label": "Amazon", "url": "https://www.amazon.com/dp/B08VF3TKG2" }
-      ]
+      ],
+      "image": "dotf.avif"
     }
   ]
 }

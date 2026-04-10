@@ -1,3 +1,4 @@
 [
-  { "slug": "litrpg-books", "name": "LitRPG Books", "category": "Books", "itemCount": 1 }
+  { "slug": "litrpg-books", "name": "LitRPG Books", "category": "Books", "itemCount": 1 },
+  { "slug": "romance-books", "name": "Romance Books", "category": "Books", "itemCount": 1 }
 ]
