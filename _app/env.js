@@ -1,1 +1,1 @@
-export const env={}
+export const env={"PUBLIC_GOOGLE_CLIENT_ID":"753091152221-fsebg6npfneplc1up27m6eo5vjd97ro3.apps.googleusercontent.com"}

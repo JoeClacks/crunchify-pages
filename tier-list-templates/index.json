@@ -1,4 +1,28 @@
 [
-  { "slug": "litrpg-books", "name": "LitRPG Books", "category": "Books", "itemCount": 1 },
-  { "slug": "romance-books", "name": "Romance Books", "category": "Books", "itemCount": 1 }
+  {
+    "slug": "books",
+    "name": "Books",
+    "category": "Books",
+    "description": "Rank the best books from S-tier masterpieces to ones you'd skip.",
+    "source": "books",
+    "itemCount": 0
+  },
+  {
+    "slug": "litrpg-books",
+    "name": "LitRPG Books",
+    "category": "Books",
+    "description": "Rank the best LitRPG novels from S-tier masterpieces to ones you'd skip.",
+    "source": "books",
+    "tagFilter": "lit-rpg",
+    "itemCount": 0
+  },
+  {
+    "slug": "romance-books",
+    "name": "Romance Books",
+    "category": "Books",
+    "description": "Rank the best romance novels from S-tier masterpieces to ones you'd skip.",
+    "source": "books",
+    "tagFilter": "romance",
+    "itemCount": 0
+  }
 ]
