@@ -8,12 +8,210 @@
     "itemCount": 0
   },
   {
+    "slug": "progression-fantasy-books",
+    "name": "Progression Fantasy Books",
+    "category": "Books",
+    "description": "Rank the best progression fantasy novels — characters who grow, level up, and push the limits of power.",
+    "source": "books",
+    "tagFilter": "progression-fantasy",
+    "itemCount": 0
+  },
+  {
     "slug": "litrpg-books",
     "name": "LitRPG Books",
     "category": "Books",
     "description": "Rank the best LitRPG novels from S-tier masterpieces to ones you'd skip.",
     "source": "books",
     "tagFilter": "lit-rpg",
+    "itemCount": 0
+  },
+  {
+    "slug": "fantasy-books",
+    "name": "Fantasy Books",
+    "category": "Books",
+    "description": "Rank the best fantasy novels — from epic world-spanning sagas to intimate magical tales.",
+    "source": "books",
+    "tagFilter": "fantasy",
+    "itemCount": 0
+  },
+  {
+    "slug": "sci-fi-books",
+    "name": "Science Fiction Books",
+    "category": "Books",
+    "description": "Rank the best science fiction novels from galaxy-spanning space operas to near-future tech thrillers.",
+    "source": "books",
+    "tagFilter": "sci-fi",
+    "itemCount": 0
+  },
+  {
+    "slug": "epic-fantasy-books",
+    "name": "Epic Fantasy Books",
+    "category": "Books",
+    "description": "Rank the best epic fantasy novels — massive worlds, complex magic systems, and sweeping storylines.",
+    "source": "books",
+    "tagFilter": "epic-fantasy",
+    "itemCount": 0
+  },
+  {
+    "slug": "web-serial-books",
+    "name": "Web Serial Books",
+    "category": "Books",
+    "description": "Rank the best web serials — originally published on Royal Road, Scribble Hub, and beyond.",
+    "source": "books",
+    "tagFilter": "web-serial",
+    "itemCount": 0
+  },
+  {
+    "slug": "isekai-books",
+    "name": "Isekai Books",
+    "category": "Books",
+    "description": "Rank the best isekai novels — heroes transported or reincarnated into another world.",
+    "source": "books",
+    "tagFilter": "isekai",
+    "itemCount": 0
+  },
+  {
+    "slug": "system-apocalypse-books",
+    "name": "System Apocalypse Books",
+    "category": "Books",
+    "description": "Rank the best system apocalypse novels — when a game-like System drops on Earth and everything changes.",
+    "source": "books",
+    "tagFilter": "system-apocalypse",
+    "itemCount": 0
+  },
+  {
+    "slug": "cultivation-books",
+    "name": "Cultivation Books",
+    "category": "Books",
+    "description": "Rank the best cultivation novels — martial artists and mages ascending through realms of power.",
+    "source": "books",
+    "tagFilter": "cultivation",
+    "itemCount": 0
+  },
+  {
+    "slug": "xianxia-books",
+    "name": "Xianxia Books",
+    "category": "Books",
+    "description": "Rank the best xianxia novels — Chinese-style cultivation, immortal realms, and the pursuit of the Dao.",
+    "source": "books",
+    "tagFilter": "xianxia",
+    "itemCount": 0
+  },
+  {
+    "slug": "grimdark-books",
+    "name": "Grimdark Books",
+    "category": "Books",
+    "description": "Rank the best grimdark novels — morally grey heroes, brutal worlds, and no easy victories.",
+    "source": "books",
+    "tagFilter": "grimdark",
+    "itemCount": 0
+  },
+  {
+    "slug": "cozy-books",
+    "name": "Cozy Fantasy Books",
+    "category": "Books",
+    "description": "Rank the best cozy fantasy novels — low stakes, warm vibes, and the joy of a slower magical life.",
+    "source": "books",
+    "tagFilter": "cozy",
+    "itemCount": 0
+  },
+  {
+    "slug": "comedic-books",
+    "name": "Comedic Books",
+    "category": "Books",
+    "description": "Rank the funniest books — from witty satires to laugh-out-loud genre send-ups.",
+    "source": "books",
+    "tagFilter": "comedic",
+    "itemCount": 0
+  },
+  {
+    "slug": "classic-books",
+    "name": "Classic Books",
+    "category": "Books",
+    "description": "Rank the classic novels that shaped modern science fiction and fantasy.",
+    "source": "books",
+    "tagFilter": "classic",
+    "itemCount": 0
+  },
+  {
+    "slug": "dystopian-books",
+    "name": "Dystopian Books",
+    "category": "Books",
+    "description": "Rank the best dystopian novels — oppressive futures, broken societies, and the will to resist.",
+    "source": "books",
+    "tagFilter": "dystopian",
+    "itemCount": 0
+  },
+  {
+    "slug": "ya-books",
+    "name": "Young Adult Books",
+    "category": "Books",
+    "description": "Rank the best young adult novels — coming-of-age stories with heart, adventure, and high stakes.",
+    "source": "books",
+    "tagFilter": "ya",
+    "itemCount": 0
+  },
+  {
+    "slug": "virtual-reality-books",
+    "name": "Virtual Reality Books",
+    "category": "Books",
+    "description": "Rank the best VR/VRMMO novels — characters who log into virtual worlds and find them very real.",
+    "source": "books",
+    "tagFilter": "virtual-reality",
+    "itemCount": 0
+  },
+  {
+    "slug": "space-opera-books",
+    "name": "Space Opera Books",
+    "category": "Books",
+    "description": "Rank the best space opera novels — galactic empires, interstellar war, and adventures across the cosmos.",
+    "source": "books",
+    "tagFilter": "space-opera",
+    "itemCount": 0
+  },
+  {
+    "slug": "hard-sci-fi-books",
+    "name": "Hard Sci-Fi Books",
+    "category": "Books",
+    "description": "Rank the best hard science fiction novels — grounded in real science and rigorous world-building.",
+    "source": "books",
+    "tagFilter": "hard-sci-fi",
+    "itemCount": 0
+  },
+  {
+    "slug": "urban-fantasy-books",
+    "name": "Urban Fantasy Books",
+    "category": "Books",
+    "description": "Rank the best urban fantasy novels — magic hidden in the modern world.",
+    "source": "books",
+    "tagFilter": "urban-fantasy",
+    "itemCount": 0
+  },
+  {
+    "slug": "superhero-books",
+    "name": "Superhero Books",
+    "category": "Books",
+    "description": "Rank the best superhero novels — powered individuals, origin stories, and battles for the fate of the world.",
+    "source": "books",
+    "tagFilter": "superhero",
+    "itemCount": 0
+  },
+  {
+    "slug": "time-loop-books",
+    "name": "Time Loop Books",
+    "category": "Books",
+    "description": "Rank the best time loop novels — heroes trapped reliving the same moment, grinding toward mastery.",
+    "source": "books",
+    "tagFilter": "time-loop",
+    "itemCount": 0
+  },
+  {
+    "slug": "tower-climbing-books",
+    "name": "Tower Climbing Books",
+    "category": "Books",
+    "description": "Rank the best tower climbing novels — floor by floor ascents through deadly challenges and growing power.",
+    "source": "books",
+    "tagFilter": "tower-climbing",
     "itemCount": 0
   },
   {

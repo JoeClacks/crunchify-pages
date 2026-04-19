@@ -12,7 +12,12 @@
     "id": "m8IZWCo1WBu5I7WgDAci8w",
     "image": "tysEXgksWaGQ1o9hjsLjPA.avif",
     "tags": [
-      "lit-rpg"
+      "lit-rpg",
+      "progression-fantasy",
+      "apocalypse",
+      "system-apocalypse",
+      "comedic",
+      "web-serial"
     ]
   },
   {
@@ -28,7 +33,10 @@
     "id": "oulGd2_kWQOHBjlEaCZFSA",
     "image": "rzRsqh3TVmWemliPYEnhEQ.avif",
     "tags": [
-      "romance"
+      "lit-rpg",
+      "progression-fantasy",
+      "isekai",
+      "web-serial"
     ]
   },
   {
@@ -43,7 +51,13 @@
     },
     "id": "VQHC936fXxq7lUMVSmKdAA",
     "image": "Pz0bp5P4WzK5vkZ6Sa2g9A.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "system-apocalypse",
+      "apocalypse",
+      "web-serial"
+    ]
   },
   {
     "label": "Unsouled",
@@ -55,7 +69,13 @@
     },
     "id": "BS9If_yBUIeyIsJKARB8Ug",
     "image": "XYiUIvcnU6WeEUI02ktpBw.avif",
-    "tags": []
+    "tags": [
+      "progression-fantasy",
+      "cultivation",
+      "xianxia",
+      "fantasy",
+      "web-serial"
+    ]
   },
   {
     "label": "Defiance of the Fall",
@@ -68,7 +88,13 @@
     },
     "id": "5VPInKqHXRaTKlGLLpDrYQ",
     "image": "9g6a3zPSXDG-yiqy4Wz5yQ.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "cultivation",
+      "system-apocalypse",
+      "web-serial"
+    ]
   },
   {
     "label": "Beware of Chicken",
@@ -82,7 +108,15 @@
     },
     "id": "xF9uVFzoURC8HPOeQ3_4Eg",
     "image": "aD07DlIeU12kykeo0TJedQ.avif",
-    "tags": []
+    "tags": [
+      "progression-fantasy",
+      "cultivation",
+      "xianxia",
+      "isekai",
+      "cozy",
+      "comedic",
+      "web-serial"
+    ]
   },
   {
     "label": "The Path of Ascension",
@@ -94,7 +128,11 @@
     },
     "id": "DpUmauAcUAmpbh4WuzNDdA",
     "image": "pihCjY1WUgiq5UFTHzIrkA.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "web-serial"
+    ]
   },
   {
     "label": "Azarinth Healer: Book One",
@@ -108,7 +146,12 @@
     },
     "id": "jkVde_gVVFiRnM_RFc5JfQ",
     "image": "Y8NYUFINXJ-Xng8lGjA_qg.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "isekai",
+      "web-serial"
+    ]
   },
   {
     "label": "The Wandering Inn",
@@ -120,7 +163,13 @@
     },
     "id": "X8nIumOxXkOJCtcPaDlEpA",
     "image": "C0tuEH-8VZ-ghzPJmelYXA.avif",
-    "tags": []
+    "tags": [
+      "progression-fantasy",
+      "lit-rpg",
+      "isekai",
+      "comedic",
+      "web-serial"
+    ]
   },
   {
     "label": "Mark of the Fool",
@@ -132,7 +181,13 @@
     },
     "id": "m9ZtNji_U3a_VO6DGT-8aA",
     "image": "Uwl2wf09VQKAHtK_5KIyFQ.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "isekai",
+      "fantasy",
+      "web-serial"
+    ]
   },
   {
     "label": "The Perfect Run",
@@ -144,7 +199,12 @@
     },
     "id": "gPsh9MreU3GaVDD53jA-bQ",
     "image": "UbAQea67UriRCt1-F0ieTg.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "time-loop",
+      "web-serial"
+    ]
   },
   {
     "label": "Mother of Learning",
@@ -155,7 +215,12 @@
     },
     "id": "8Ok6OdXhV_KvKQ8bcT1H4Q",
     "image": "L9s47utLU0mRw_POt6r1ag.avif",
-    "tags": []
+    "tags": [
+      "progression-fantasy",
+      "time-loop",
+      "fantasy",
+      "web-serial"
+    ]
   },
   {
     "label": "We Are Legion",
@@ -169,7 +234,12 @@
     },
     "id": "iWrbdwQ0W_ifIMkUNfKA0Q",
     "image": "YBe4b-8QVpmDiT367NhIVQ.avif",
-    "tags": []
+    "tags": [
+      "sci-fi",
+      "space-opera",
+      "hard-sci-fi",
+      "comedic"
+    ]
   },
   {
     "label": "Heretical Fishing: A Cozy Guide to Annoying the Cults, Outsmarting the Fish, and Alienating Oneself",
@@ -182,7 +252,14 @@
     },
     "id": "VJULc-S0VkGreZGTQkVg5w",
     "image": "AmStVupdXQicOjF8r9GGoA.avif",
-    "tags": []
+    "tags": [
+      "progression-fantasy",
+      "cultivation",
+      "isekai",
+      "cozy",
+      "comedic",
+      "web-serial"
+    ]
   },
   {
     "label": "The Mayor of Noobtown",
@@ -195,7 +272,12 @@
     },
     "id": "SiHIcfxsXDGlDTUJ4st7Lw",
     "image": "kR8FFG1QURu2DT5fQKm7jw.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "comedic",
+      "web-serial"
+    ]
   },
   {
     "label": "Iron Prince",
@@ -209,7 +291,12 @@
     },
     "id": "xt21n14IXSq1akla3oGjJg",
     "image": "0bq8ICiiWOKPMwXBrXxAeQ.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "sci-fi",
+      "web-serial"
+    ]
   },
   {
     "label": "The Legend of Randidly Ghosthound",
@@ -222,7 +309,12 @@
     },
     "id": "iZmjwrxHVkmpjOxrXBen2w",
     "image": "apuJXsvSXAWiG-CXWCf2Mg.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "system-apocalypse",
+      "web-serial"
+    ]
   },
   {
     "label": "All the Skills",
@@ -234,7 +326,11 @@
     },
     "id": "4HnCJ2eRVQ-eDfCHyjWpbw",
     "image": "VtG8ecF6XiKG8ftO-w4uwA.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "web-serial"
+    ]
   },
   {
     "label": "Project Hail Mary",
@@ -247,7 +343,10 @@
     },
     "id": "zvF1GvG9WUuT76FCiM-Pqg",
     "image": "ZXKuIdlMXs-HwLtgOPGTYQ.avif",
-    "tags": []
+    "tags": [
+      "sci-fi",
+      "hard-sci-fi"
+    ]
   },
   {
     "label": "Red Rising",
@@ -260,7 +359,11 @@
     },
     "id": "6S2rp1hUW1mYToc10uST7Q",
     "image": "2ib4tUxxVp2RC8nTWcyLqA.avif",
-    "tags": []
+    "tags": [
+      "sci-fi",
+      "dystopian",
+      "dark"
+    ]
   },
   {
     "label": "Domestication",
@@ -273,7 +376,13 @@
     },
     "id": "fY7-NAIoWAuvVzVX42KWqg",
     "image": "CDJtVFQdW-Kx2AtgiPzV7w.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "isekai",
+      "cozy",
+      "web-serial"
+    ]
   },
   {
     "label": "Oh Great! I was Reincarnated as a Farmer",
@@ -287,7 +396,13 @@
     },
     "id": "px-AsfnsXgySPpDgpNCjHA",
     "image": "GMB_8G8WUN6Uy4TLFDPIAQ.avif",
-    "tags": []
+    "tags": [
+      "progression-fantasy",
+      "isekai",
+      "cozy",
+      "comedic",
+      "web-serial"
+    ]
   },
   {
     "label": "A Soldier's Life: Book 1",
@@ -298,7 +413,12 @@
     },
     "id": "ipiYWflXWE60jPMhTzjXZA",
     "image": "onKrscjBV-eWD86zhKRdCQ.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "military",
+      "web-serial"
+    ]
   },
   {
     "label": "Mistborn: The Final Empire",
@@ -311,7 +431,11 @@
     },
     "id": "qripeOfHW4WWlCBcuL4GFw",
     "image": "D62gcBi9UM25V5alTPFImQ.avif",
-    "tags": []
+    "tags": [
+      "fantasy",
+      "epic-fantasy",
+      "progression-fantasy"
+    ]
   },
   {
     "label": "System Change",
@@ -324,7 +448,12 @@
     },
     "id": "Nn_s9LXCUxKyDPuMr_86LA",
     "image": "n3XV7R66U6ixg6qWJjU9lQ.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "system-apocalypse",
+      "web-serial"
+    ]
   },
   {
     "label": "Sufficiently Advanced Magic",
@@ -336,7 +465,12 @@
     },
     "id": "xv3ZnFjUX86_NMmNw6QHmw",
     "image": "2ZgSJzDcW_-jzQ7ZwlIacw.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "fantasy",
+      "web-serial"
+    ]
   },
   {
     "label": "Shadeslinger",
@@ -347,7 +481,12 @@
     },
     "id": "BzW9PrgAUlq2lNvgEU7wUg",
     "image": "9aakcwPBUAWpjqfuUqcJ-w.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "virtual-reality",
+      "web-serial"
+    ]
   },
   {
     "label": "The Antventure Begins",
@@ -361,7 +500,11 @@
     },
     "id": "ECzexFeHW1ueS8FFFbBpEA",
     "image": "REgMXdV-X7O1i8vMHy4Sfw.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "web-serial"
+    ]
   },
   {
     "label": "The Name of the Wind",
@@ -374,7 +517,10 @@
     },
     "id": "mcC5IHStUXapA0h15hKpAg",
     "image": "aSAZmj2iXq-Kfe3sLk-XZQ.avif",
-    "tags": []
+    "tags": [
+      "fantasy",
+      "epic-fantasy"
+    ]
   },
   {
     "label": "One More Last Time",
@@ -387,7 +533,12 @@
     },
     "id": "3xmMyM-4WtyyMsR_YFIujA",
     "image": "erOn6aztXPCFv3yirFWjsw.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "comedic",
+      "web-serial"
+    ]
   },
   {
     "label": "Oathbound Healer",
@@ -399,7 +550,13 @@
     },
     "id": "ThDPtVzkVBO28yIuTgyDbw",
     "image": "GIxDMlWzXbC0tNhRYZGffA.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "isekai",
+      "fantasy",
+      "web-serial"
+    ]
   },
   {
     "label": "1% Lifesteal: A LitRPG Adventure",
@@ -410,7 +567,11 @@
     },
     "id": "NSm3oHkXXPm1cCUZpVv39A",
     "image": "WmdXOzmtUbSBA2LtqCUI3Q.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "web-serial"
+    ]
   },
   {
     "label": "Death Loot & Vampires",
@@ -424,7 +585,12 @@
     },
     "id": "X0tLi3jDX0m4MW9OUDGAeg",
     "image": "YDEWLqhNXm-ml0YsJnp5-g.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "comedic",
+      "web-serial"
+    ]
   },
   {
     "label": "Shade's First Rule",
@@ -436,7 +602,11 @@
     },
     "id": "HWtRoIUQUTOZl0abuHXb_g",
     "image": "ysWNyCYwU8Cuxubb36LwYg.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "web-serial"
+    ]
   },
   {
     "label": "The Way of Kings",
@@ -450,7 +620,11 @@
     },
     "id": "F7Kj5VzNWU6w2lbPZX5NWw",
     "image": "DhvvcStAUde9DGhCR8XmZQ.avif",
-    "tags": []
+    "tags": [
+      "fantasy",
+      "epic-fantasy",
+      "progression-fantasy"
+    ]
   },
   {
     "label": "Bastion",
@@ -463,7 +637,11 @@
     },
     "id": "pXxo4v-vX-yc62qPHOPOkA",
     "image": "DN5sehCsVReUVukKKG_lCQ.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "web-serial"
+    ]
   },
   {
     "label": "Bog Standard Isekai: Scarred",
@@ -475,7 +653,13 @@
     },
     "id": "3SfNwwuNUV2_NTsLEhedtw",
     "image": "trBM-87IX0WDVuhBdQ5UOg.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "isekai",
+      "comedic",
+      "web-serial"
+    ]
   },
   {
     "label": "Dissonance",
@@ -489,7 +673,11 @@
     },
     "id": "wjyEsD6RWdWhtmvxlRtA2A",
     "image": "-tiF69OXXxuluDDdYpjgug.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "web-serial"
+    ]
   },
   {
     "label": "Jake's Magical Market",
@@ -502,7 +690,12 @@
     },
     "id": "41YIzIrjX_qpAMxpvbfi9Q",
     "image": "pvbRCJKZUO-Zqq-V6cxbig.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "comedic",
+      "web-serial"
+    ]
   },
   {
     "label": "All Systems Red",
@@ -515,7 +708,10 @@
     },
     "id": "tUUaCFSuWjqh5k4cfVZRgQ",
     "image": "O2NXw8PfUvuMjo-9VDc1oQ.avif",
-    "tags": []
+    "tags": [
+      "sci-fi",
+      "comedic"
+    ]
   },
   {
     "label": "Dungeon Born",
@@ -529,7 +725,12 @@
     },
     "id": "jcE23yw9WCa-8ydQIqIgfA",
     "image": "QMgJJxUoXXKl851cORqfjw.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "dungeon-core",
+      "web-serial"
+    ]
   },
   {
     "label": "Dead Tired 1",
@@ -541,7 +742,12 @@
     },
     "id": "tety_zLxUaSCpHsiAG2zdw",
     "image": "S5XSj4WHXhmLvcsqzUJMZg.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "system-apocalypse",
+      "web-serial"
+    ]
   },
   {
     "label": "Induction",
@@ -553,7 +759,12 @@
     },
     "id": "lcRzelKLW6qb9edcOCmC0w",
     "image": "JdQC3xtmUaecoiqGUY68YA.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "sci-fi",
+      "web-serial"
+    ]
   },
   {
     "label": "Portal to Nova Roma",
@@ -565,7 +776,12 @@
     },
     "id": "GiHeZYkeU8SIV-G_SLsMaQ",
     "image": "oooaiaw8WNyUm0bLUIvi7Q.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "isekai",
+      "web-serial"
+    ]
   },
   {
     "label": "Ritualist",
@@ -579,7 +795,12 @@
     },
     "id": "CHYakG6XVIKA0FiWG2B7Sg",
     "image": "SH_leXdHUb6qtyBCO_6zYQ.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "virtual-reality",
+      "web-serial"
+    ]
   },
   {
     "label": "Morningwood",
@@ -592,7 +813,12 @@
     },
     "id": "lXBh5YHyVyu0L19cTcP0ww",
     "image": "65xX86kTXqiKbn719CkiZw.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "comedic",
+      "web-serial"
+    ]
   },
   {
     "label": "To Flail Against Infinity",
@@ -604,7 +830,11 @@
     },
     "id": "_h8aFRVeVYCVuj363ZboTA",
     "image": "ZsGQSsF4X-G-zeO9Lj1VBw.avif",
-    "tags": []
+    "tags": [
+      "progression-fantasy",
+      "sci-fi",
+      "web-serial"
+    ]
   },
   {
     "label": "Super Powereds: Year 1",
@@ -617,7 +847,11 @@
     },
     "id": "_tONKryxUDmKqRSPGBgChA",
     "image": "E7NlqyUbUoCgAofgJhFjqA.avif",
-    "tags": []
+    "tags": [
+      "progression-fantasy",
+      "superhero",
+      "web-serial"
+    ]
   },
   {
     "label": "Vainqueur the Dragon",
@@ -631,7 +865,12 @@
     },
     "id": "Aa9NY298VsySLlFyN6mfcg",
     "image": "RYDTaUe7XU64GmwlsDS2sQ.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "comedic",
+      "web-serial"
+    ]
   },
   {
     "label": "The Return of the Runebound Professor",
@@ -643,7 +882,12 @@
     },
     "id": "p2dlDXDoX9685qNPN4cnSA",
     "image": "VQKuDSlbWjaeU2NBMtv1Ew.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "fantasy",
+      "web-serial"
+    ]
   },
   {
     "label": "Threadbare Volume One",
@@ -656,7 +900,12 @@
     },
     "id": "d-A_YfD9V1C8PNxYZnDnQA",
     "image": "tCFhWcjYVrWjCCXO5ZG6cA.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "comedic",
+      "web-serial"
+    ]
   },
   {
     "label": "Into the Labyrinth",
@@ -670,7 +919,11 @@
     },
     "id": "_Kng02n6VY29qdBLGn9f6w",
     "image": "5M6pHOSuUwe7JLXyWf6Wvg.avif",
-    "tags": []
+    "tags": [
+      "progression-fantasy",
+      "fantasy",
+      "web-serial"
+    ]
   },
   {
     "label": "Awaken Online",
@@ -681,7 +934,12 @@
     },
     "id": "JVwNfJcnWvGrAFQbngSRWQ",
     "image": "WMyuiwndVHGpi1zqrLt8tQ.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "virtual-reality",
+      "progression-fantasy",
+      "web-serial"
+    ]
   },
   {
     "label": "Pit Fighter",
@@ -695,7 +953,12 @@
     },
     "id": "YaNkGAStUMKQgPG_xA_O9A",
     "image": "5LK6M5A7WSCqL-1wiOjrrA.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "isekai",
+      "web-serial"
+    ]
   },
   {
     "label": "Hell Difficulty Tutorial: A LitRPG Adventure",
@@ -707,7 +970,12 @@
     },
     "id": "RdkhlpmQUFui8_JuaVpafg",
     "image": "27zU9GjkVgqMRtGTlay29g.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "tower-climbing",
+      "web-serial"
+    ]
   },
   {
     "label": "The Eye of the World",
@@ -721,7 +989,10 @@
     },
     "id": "HQEndaoQV1us-2Mr1X3oow",
     "image": "gqy61MjyWH-AKL7K6SLhPw.avif",
-    "tags": []
+    "tags": [
+      "fantasy",
+      "epic-fantasy"
+    ]
   },
   {
     "label": "The Stubborn Skill-Grinder In a Time Loop: A LitRPG Adventure",
@@ -732,7 +1003,12 @@
     },
     "id": "8w2bIqjNXJWCTpXyCAORFQ",
     "image": "cJMeSsx1WsCEWsyrmnADGQ.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "time-loop",
+      "web-serial"
+    ]
   },
   {
     "label": "A Game of Thrones",
@@ -744,7 +1020,11 @@
     },
     "id": "6qqLR9d2VeKofqnzWH8Tng",
     "image": "wUJ_5ltiWny7L_A4dG_zEA.avif",
-    "tags": []
+    "tags": [
+      "fantasy",
+      "epic-fantasy",
+      "grimdark"
+    ]
   },
   {
     "label": "Ready Player One",
@@ -757,7 +1037,11 @@
     },
     "id": "Fq2khIwlWI-uNai6O8yiSw",
     "image": "0Skpyb_UWCyyediVTWOioQ.avif",
-    "tags": []
+    "tags": [
+      "sci-fi",
+      "lit-rpg",
+      "virtual-reality"
+    ]
   },
   {
     "label": "Scamps & Scoundrels",
@@ -771,7 +1055,11 @@
     },
     "id": "EgBHnLPvVwawwum4LcOKxg",
     "image": "SbjTvulYWvW6GTwhlRRnYw.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "web-serial"
+    ]
   },
   {
     "label": "The Lies of Locke Lamora",
@@ -785,7 +1073,11 @@
     },
     "id": "plKpVqsHWHmabi_tSNisAg",
     "image": "2q7quBtuW7iZwELElxoy_Q.avif",
-    "tags": []
+    "tags": [
+      "fantasy",
+      "epic-fantasy",
+      "grimdark"
+    ]
   },
   {
     "label": "Paranoid Mage",
@@ -796,7 +1088,11 @@
     },
     "id": "ktnh_0SpWi2lSKAxqpSxYA",
     "image": "UzIDRUvMXSeHTaGE4wfEVw.avif",
-    "tags": []
+    "tags": [
+      "progression-fantasy",
+      "urban-fantasy",
+      "web-serial"
+    ]
   },
   {
     "label": "The Frozen Realm",
@@ -808,7 +1104,11 @@
     },
     "id": "g0-TRxt1XYOZIDzAV7k6LA",
     "image": "9VZYzSCCWOu9tUwCwBMe0g.avif",
-    "tags": []
+    "tags": [
+      "progression-fantasy",
+      "sci-fi",
+      "web-serial"
+    ]
   },
   {
     "label": "Ender's Game",
@@ -821,7 +1121,10 @@
     },
     "id": "e4RJM2rPVUylRIoExwG8iQ",
     "image": "n5Nm3-2YXFKtfIQm5y4qhw.avif",
-    "tags": []
+    "tags": [
+      "sci-fi",
+      "military-sci-fi"
+    ]
   },
   {
     "label": "The Calamitous Bob",
@@ -833,7 +1136,12 @@
     },
     "id": "XgFLIo4IXbmIm8Q-8Exw1Q",
     "image": "QbKStNdnUyylwe6SReF6iQ.avif",
-    "tags": []
+    "tags": [
+      "progression-fantasy",
+      "lit-rpg",
+      "comedic",
+      "web-serial"
+    ]
   },
   {
     "label": "Storm Front",
@@ -847,7 +1155,11 @@
     },
     "id": "AXLVSP33XyypvJZxsHVAdQ",
     "image": "mPv6W-luXimlNoWa4Vv23Q.avif",
-    "tags": []
+    "tags": [
+      "urban-fantasy",
+      "fantasy",
+      "mystery"
+    ]
   },
   {
     "label": "Hyperion",
@@ -860,7 +1172,11 @@
     },
     "id": "gJhg5Y_RWI-SU40YW2Cg-g",
     "image": "rkk7aP81XgG5NI3xbE05EA.avif",
-    "tags": []
+    "tags": [
+      "sci-fi",
+      "space-opera",
+      "hard-sci-fi"
+    ]
   },
   {
     "label": "Chrysalis",
@@ -871,7 +1187,11 @@
     },
     "id": "fhsykhrJX3mLu5WfFmI4Cg",
     "image": "BpyQthM8XgCOn1LzVlbFaw.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "web-serial"
+    ]
   },
   {
     "label": "Mage Tank: A LitRPG Adventure",
@@ -883,7 +1203,11 @@
     },
     "id": "duznjkhGXeOD52aqBauXqQ",
     "image": "g1nUKL7RU-OE1WPgGD8k7Q.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "web-serial"
+    ]
   },
   {
     "label": "Reborn as a Demonic Tree",
@@ -895,7 +1219,11 @@
     },
     "id": "Vzi6ZKE8WuKck5hY2LZEiQ",
     "image": "Q7tYYss2UUeb8CUbkkIQHw.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "web-serial"
+    ]
   },
   {
     "label": "Life Reset",
@@ -908,7 +1236,11 @@
     },
     "id": "VoPa0XpWV4W-BvgPwcIRnw",
     "image": "mNdCwqR3Xfa2QYPm5la-Gg.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "virtual-reality",
+      "progression-fantasy"
+    ]
   },
   {
     "label": "The Captain",
@@ -922,7 +1254,11 @@
     },
     "id": "SN4z8S3lUSCNqGzR-e1UfA",
     "image": "UxFwZTkWUvejKh09wNOzJw.avif",
-    "tags": []
+    "tags": [
+      "progression-fantasy",
+      "sci-fi",
+      "web-serial"
+    ]
   },
   {
     "label": "Kaiju: Battlefield Surgeon",
@@ -934,7 +1270,10 @@
     },
     "id": "GIItKDkHU8WGnkKHIk4uYw",
     "image": "9ElWJND6XNutJ7bTSVehKQ.avif",
-    "tags": []
+    "tags": [
+      "sci-fi",
+      "comedic"
+    ]
   },
   {
     "label": "Dune",
@@ -947,7 +1286,12 @@
     },
     "id": "BKghrjTEXVGIk5aRsBDXTg",
     "image": "TYtBqfGCWVSmsnwnqh7cEg.avif",
-    "tags": []
+    "tags": [
+      "sci-fi",
+      "space-opera",
+      "epic-fantasy",
+      "classic"
+    ]
   },
   {
     "label": "Elantris",
@@ -961,7 +1305,10 @@
     },
     "id": "6SWdylOrWCmKfYJk4TwsRA",
     "image": "cYQPIopLXy2Jo0rnkcTpWg.avif",
-    "tags": []
+    "tags": [
+      "fantasy",
+      "epic-fantasy"
+    ]
   },
   {
     "label": "Savage Awakening",
@@ -972,7 +1319,11 @@
     },
     "id": "3xmRm8EiXdyan9Rg4BlWUw",
     "image": "aQGs3MtcXs6Ko2UHZ-EtfQ.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "web-serial"
+    ]
   },
   {
     "label": "Legends & Lattes",
@@ -986,7 +1337,10 @@
     },
     "id": "vs7lyEcmXvCyvatBxriPsA",
     "image": "UqwA_pfRWDOhRrEUwWcZuw.avif",
-    "tags": []
+    "tags": [
+      "fantasy",
+      "cozy"
+    ]
   },
   {
     "label": "The Land: Founding",
@@ -999,7 +1353,11 @@
     },
     "id": "tA9RIoYZVf6MRWxfA_Iybg",
     "image": "NBXXwqJKXw6YrzOfro0__Q.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "virtual-reality"
+    ]
   },
   {
     "label": "The Martian",
@@ -1012,7 +1370,11 @@
     },
     "id": "sqvbSl3TXWi7vPWzQJrhyA",
     "image": "cff5AnwyV7aKnRGYNqPIAA.avif",
-    "tags": []
+    "tags": [
+      "sci-fi",
+      "hard-sci-fi",
+      "comedic"
+    ]
   },
   {
     "label": "The Grand Game",
@@ -1023,7 +1385,11 @@
     },
     "id": "hzxNwrO4WK2vWQS5GqfCIg",
     "image": "ko2KIjEdUcupuTOsaWGMyA.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "web-serial"
+    ]
   },
   {
     "label": "Something",
@@ -1037,7 +1403,12 @@
     },
     "id": "dRMjFnuaWAqnvOsAfC6qsA",
     "image": "BSwSw_bVUy-tbRQx2egebw.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "comedic",
+      "web-serial"
+    ]
   },
   {
     "label": "Shattered Dreams",
@@ -1050,7 +1421,11 @@
     },
     "id": "ba-IK9J6U7KBbpElx5whUQ",
     "image": "jZcUi366UqmlXbrjrM0hxQ.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "web-serial"
+    ]
   },
   {
     "label": "The Hunger Games",
@@ -1063,7 +1438,11 @@
     },
     "id": "gZ7WYGomUJylThhAEdqVmw",
     "image": "YprTY6N-XzezfFcKrtkAig.avif",
-    "tags": []
+    "tags": [
+      "dystopian",
+      "sci-fi",
+      "ya"
+    ]
   },
   {
     "label": "Industrial Strength Magic",
@@ -1074,7 +1453,13 @@
     },
     "id": "bP8YQ9y7UEm7LbxxKOtbtQ",
     "image": "pba81jzyW1eOxy-ukfhAKg.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "urban-fantasy",
+      "superhero",
+      "web-serial"
+    ]
   },
   {
     "label": "This Quest is Broken!",
@@ -1086,7 +1471,13 @@
     },
     "id": "XPYqlV34VV-rwk6Qrd8ELA",
     "image": "0wN9n-frWVWQBMdDf9kdCg.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "isekai",
+      "comedic",
+      "web-serial"
+    ]
   },
   {
     "label": "The Will of the Many",
@@ -1100,7 +1491,10 @@
     },
     "id": "QGp_6sywVeahdxnCuzdiXg",
     "image": "eI7nwC_LUyeGvC6qwl4UWA.avif",
-    "tags": []
+    "tags": [
+      "fantasy",
+      "progression-fantasy"
+    ]
   },
   {
     "label": "Columbus Day",
@@ -1112,7 +1506,12 @@
     },
     "id": "ubZMB9F3VeS8HgE31fv2jw",
     "image": "FNrFYAjQVXqbEN9geKtCag.avif",
-    "tags": []
+    "tags": [
+      "sci-fi",
+      "military-sci-fi",
+      "space-opera",
+      "comedic"
+    ]
   },
   {
     "label": "Redshirts",
@@ -1125,7 +1524,11 @@
     },
     "id": "lsHJOA0DW_qcoGG9WAPWJg",
     "image": "10MnIlDoX0SWU1CKbkHkIA.avif",
-    "tags": []
+    "tags": [
+      "sci-fi",
+      "comedic",
+      "satire"
+    ]
   },
   {
     "label": "Soulhome",
@@ -1137,7 +1540,11 @@
     },
     "id": "lERHz4AxXwinOfWoCtHDxQ",
     "image": "G0zSLgK5WnaaaexcgWSnqQ.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "web-serial"
+    ]
   },
   {
     "label": "A Deadly Education",
@@ -1151,7 +1558,10 @@
     },
     "id": "YzEaVuBOWWOdkr7AToJd8A",
     "image": "QkAcTdzcWCWcPnteZRlkTQ.avif",
-    "tags": []
+    "tags": [
+      "fantasy",
+      "progression-fantasy"
+    ]
   },
   {
     "label": "The Two Week Curse",
@@ -1164,7 +1574,10 @@
     },
     "id": "P3QFUcaPWYOPZGu-_YQelw",
     "image": "ftcpDZJTV1KjGwnrSsZe2A.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy"
+    ]
   },
   {
     "label": "Player Manager",
@@ -1175,7 +1588,11 @@
     },
     "id": "ARGPVxIkVgWQYIwP_B-BAA",
     "image": "2HoEb6P_XAetTK-TD77cMg.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "web-serial"
+    ]
   },
   {
     "label": "The Alloy of Law",
@@ -1189,7 +1606,10 @@
     },
     "id": "9X50Jxq-W0eo-AFPX1MYAA",
     "image": "xTp-X9RbUa2rypYdPMt9sQ.avif",
-    "tags": []
+    "tags": [
+      "fantasy",
+      "epic-fantasy"
+    ]
   },
   {
     "label": "Solo Leveling, Vol. 1",
@@ -1203,7 +1623,13 @@
     },
     "id": "xGuprlTTXuWGjDUoqjkvZw",
     "image": "t6jvhlkDWwCb5389iRdlrw.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "manhwa",
+      "system-apocalypse",
+      "tower-climbing"
+    ]
   },
   {
     "label": "Starter Villain",
@@ -1215,7 +1641,10 @@
     },
     "id": "tzh19R-aWGmFLaacluip1A",
     "image": "OAlO7eBKVBW24hHjZqTO7Q.avif",
-    "tags": []
+    "tags": [
+      "fantasy",
+      "comedic"
+    ]
   },
   {
     "label": "The Blade Itself",
@@ -1229,7 +1658,11 @@
     },
     "id": "pQINpg--VGa0n3t-f6eD4g",
     "image": "2Kj1AdKAWZKEinntkSb2Qg.avif",
-    "tags": []
+    "tags": [
+      "fantasy",
+      "epic-fantasy",
+      "grimdark"
+    ]
   },
   {
     "label": "An Adventure Brewing",
@@ -1242,7 +1675,14 @@
     },
     "id": "pDlzwThhWlqUplpjCYqdaA",
     "image": "U05rqcKKVpKMvudmsAMcfA.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "isekai",
+      "cozy",
+      "comedic",
+      "web-serial"
+    ]
   },
   {
     "label": "A Practical Guide to Evil I",
@@ -1255,7 +1695,12 @@
     },
     "id": "lIeQ1qpjVKGCjiDBDmhxug",
     "image": "mW0A9TzNX66jCvEKP7_8KQ.avif",
-    "tags": []
+    "tags": [
+      "progression-fantasy",
+      "fantasy",
+      "dark",
+      "web-serial"
+    ]
   },
   {
     "label": "Old Man's War",
@@ -1268,7 +1713,10 @@
     },
     "id": "kgqnrRYDU_ydpye0WMLxiw",
     "image": "86jSBqNvW5mcNmSwcuQH8w.avif",
-    "tags": []
+    "tags": [
+      "sci-fi",
+      "military-sci-fi"
+    ]
   },
   {
     "label": "The Three-Body Problem",
@@ -1281,7 +1729,10 @@
     },
     "id": "TigWlguEUduoz6EINdYSGQ",
     "image": "5vqRzDnsXeKyMqR_fVnUCg.avif",
-    "tags": []
+    "tags": [
+      "sci-fi",
+      "hard-sci-fi"
+    ]
   },
   {
     "label": "Leviathan Wakes",
@@ -1295,7 +1746,11 @@
     },
     "id": "MuBJP8NsVbijx0nng-zaYw",
     "image": "XivRFyOKWiKTjC_CJNVVAA.avif",
-    "tags": []
+    "tags": [
+      "sci-fi",
+      "space-opera",
+      "mystery"
+    ]
   },
   {
     "label": "Mageling",
@@ -1308,7 +1763,11 @@
     },
     "id": "FYCNVOEVUn-HClNCulbVPg",
     "image": "NEeX890CX8-mlQ7pwl946Q.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "web-serial"
+    ]
   },
   {
     "label": "Tress of the Emerald Sea",
@@ -1322,7 +1781,10 @@
     },
     "id": "E9sKKMn3XSeFMRtl59Xq2A",
     "image": "WVXKlFjXUS2W325OC0g1bQ.avif",
-    "tags": []
+    "tags": [
+      "fantasy",
+      "comedic"
+    ]
   },
   {
     "label": "Worm",
@@ -1333,7 +1795,12 @@
     },
     "id": "xuN-7OTdWziUUzPKhOUORw",
     "image": "oDQXq5Z1U0GRp4SqTchxWw.avif",
-    "tags": []
+    "tags": [
+      "progression-fantasy",
+      "superhero",
+      "dark",
+      "web-serial"
+    ]
   },
   {
     "label": "BuyMort: Grand Opening",
@@ -1345,7 +1812,13 @@
     },
     "id": "xcp5rpKqXx-wqVojd-1Mpw",
     "image": "yawYzF7JWEqZ7MC6mMxj5Q.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "sci-fi",
+      "comedic",
+      "web-serial"
+    ]
   },
   {
     "label": "The Colour Of Magic",
@@ -1359,7 +1832,11 @@
     },
     "id": "lVXpNS98XimKZhbQMVIRWA",
     "image": "ERynv1W1XNGyR6ajWK29pQ.avif",
-    "tags": []
+    "tags": [
+      "fantasy",
+      "comedic",
+      "satire"
+    ]
   },
   {
     "label": "The First Step",
@@ -1372,7 +1849,12 @@
     },
     "id": "he-vSnVqXDWagL4HP20IlA",
     "image": "xjO3m4YlWmSvgIb4gOoftQ.avif",
-    "tags": []
+    "tags": [
+      "progression-fantasy",
+      "cultivation",
+      "xianxia",
+      "web-serial"
+    ]
   },
   {
     "label": "Worth the Candle",
@@ -1383,7 +1865,12 @@
     },
     "id": "bT3lb7xrXVeR6chTfdlnvQ",
     "image": "D6u8YmytWQykxn08lUnHnA.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "time-loop",
+      "web-serial"
+    ]
   },
   {
     "label": "The Fifth Season",
@@ -1396,7 +1883,13 @@
     },
     "id": "_kIXBr--URuclnw4n6obdQ",
     "image": "eSb6pqWLWTO6ep-EkKC9rg.avif",
-    "tags": []
+    "tags": [
+      "fantasy",
+      "sci-fi",
+      "dystopian",
+      "dark",
+      "grimdark"
+    ]
   },
   {
     "label": "Street Cultivation",
@@ -1408,7 +1901,13 @@
     },
     "id": "_76mb98yX5euG89ARv5IHQ",
     "image": "GFu3USyPX4CQFhq8U152VQ.avif",
-    "tags": []
+    "tags": [
+      "progression-fantasy",
+      "cultivation",
+      "xianxia",
+      "urban-fantasy",
+      "web-serial"
+    ]
   },
   {
     "label": "What the Truck",
@@ -1421,7 +1920,13 @@
     },
     "id": "V14-65aTU72m_CYT3SQisQ",
     "image": "iX63ZwuOVC2Q0wuEup_xjw.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "system-apocalypse",
+      "comedic",
+      "web-serial"
+    ]
   },
   {
     "label": "Magician: Apprentice",
@@ -1434,7 +1939,10 @@
     },
     "id": "TuONUsnLWgqTSd1jmscQPg",
     "image": "gcCLx8kRW2OuYj-ukdH_dQ.avif",
-    "tags": []
+    "tags": [
+      "fantasy",
+      "epic-fantasy"
+    ]
   },
   {
     "label": "Awakening",
@@ -1446,7 +1954,11 @@
     },
     "id": "86HQQUaPWq6fgqphu-kw5g",
     "image": "gQY1qQUXWFaMcXE9K333ig.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "web-serial"
+    ]
   },
   {
     "label": "Harry Potter and the Sorcerer's Stone",
@@ -1459,7 +1971,10 @@
     },
     "id": "4WhtHBR3WNy6jiZFrJjyCg",
     "image": "FUTZT_J7V5OYA3hNuDsLiA.avif",
-    "tags": []
+    "tags": [
+      "fantasy",
+      "ya"
+    ]
   },
   {
     "label": "Time to Play",
@@ -1472,7 +1987,12 @@
     },
     "id": "tgsoDc3cXl6qzXlGNSqQaQ",
     "image": "4q7yw8WuVp-clHuVDwKpWA.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "system-apocalypse",
+      "web-serial"
+    ]
   },
   {
     "label": "Gardens of the Moon",
@@ -1485,7 +2005,11 @@
     },
     "id": "egvlMz0KXqawrymMlX5y2Q",
     "image": "NV5wKHEHWGmYYthjZGCEPw.avif",
-    "tags": []
+    "tags": [
+      "fantasy",
+      "epic-fantasy",
+      "grimdark"
+    ]
   },
   {
     "label": "The Hitchhiker's Guide to the Galaxy",
@@ -1499,7 +2023,11 @@
     },
     "id": "dzqQ3hsJVn6IXlDcv67Vjg",
     "image": "LDH2O68tXzuN9Bj8RQgzCw.avif",
-    "tags": []
+    "tags": [
+      "sci-fi",
+      "comedic",
+      "satire"
+    ]
   },
   {
     "label": "Warbreaker",
@@ -1512,7 +2040,10 @@
     },
     "id": "G1uE4cRlVy2WI8YFEwoThw",
     "image": "n51MtYPKW96BW7LDsIg15g.avif",
-    "tags": []
+    "tags": [
+      "fantasy",
+      "epic-fantasy"
+    ]
   },
   {
     "label": "The Choice of Magic",
@@ -1525,7 +2056,11 @@
     },
     "id": "5C7NZYYxXiKwxi1bF4W5mg",
     "image": "sI3ooCcAXf-FTDDsTgYzwA.avif",
-    "tags": []
+    "tags": [
+      "progression-fantasy",
+      "fantasy",
+      "web-serial"
+    ]
   },
   {
     "label": "Jade City",
@@ -1539,7 +2074,11 @@
     },
     "id": "jgSK-rKhVWquCZwQUrsVzQ",
     "image": "7dZMNflvWHmTanMteROtbw.avif",
-    "tags": []
+    "tags": [
+      "fantasy",
+      "dark",
+      "grimdark"
+    ]
   },
   {
     "label": "Jackal Among Snakes, Book 1",
@@ -1550,7 +2089,11 @@
     },
     "id": "UTMGZXukXR2HMcGFJnhEoA",
     "image": "K-vhdEkaWteTVBDxQhfbSA.avif",
-    "tags": []
+    "tags": [
+      "progression-fantasy",
+      "fantasy",
+      "web-serial"
+    ]
   },
   {
     "label": "Dungeon Lord",
@@ -1563,7 +2106,12 @@
     },
     "id": "RN-O09pkV5uEqttz7cNQRw",
     "image": "JSke2ct-UmuSJgL9N0WiTA.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "dungeon-core",
+      "web-serial"
+    ]
   },
   {
     "label": "Foundation",
@@ -1576,7 +2124,11 @@
     },
     "id": "McUNJppNXhevhc5p1jvGNg",
     "image": "WM-bxgSEV9WaX3g3_BUzlw.avif",
-    "tags": []
+    "tags": [
+      "sci-fi",
+      "space-opera",
+      "classic"
+    ]
   },
   {
     "label": "Skyward",
@@ -1590,7 +2142,11 @@
     },
     "id": "CJtsQBMwWQS5Y0V7uv7Rkg",
     "image": "UTcMyh6YUSG77I3zsH1rMQ.avif",
-    "tags": []
+    "tags": [
+      "sci-fi",
+      "space-opera",
+      "ya"
+    ]
   },
   {
     "label": "Piranesi",
@@ -1603,7 +2159,10 @@
     },
     "id": "30y7BMjVWr2YsdxkFQ7TfA",
     "image": "72L6Oe66V4CrHZPlgPtuVw.avif",
-    "tags": []
+    "tags": [
+      "fantasy",
+      "mystery"
+    ]
   },
   {
     "label": "Steelheart",
@@ -1616,7 +2175,11 @@
     },
     "id": "qH7H-KY4WBComkKK85mfmw",
     "image": "-zU0T4n2XrCl2xD9iOtBsw.avif",
-    "tags": []
+    "tags": [
+      "sci-fi",
+      "superhero",
+      "ya"
+    ]
   },
   {
     "label": "The Poppy War",
@@ -1630,7 +2193,11 @@
     },
     "id": "j4AAeMeYW9yA7vgDRapP3Q",
     "image": "KZVaSSCUWZKU3HaPUYcmUg.avif",
-    "tags": []
+    "tags": [
+      "fantasy",
+      "grimdark",
+      "dark"
+    ]
   },
   {
     "label": "Gideon the Ninth",
@@ -1644,7 +2211,12 @@
     },
     "id": "iIboly0uX5KimZ2mtl5p8Q",
     "image": "6tapyhImWBGZuT8w8__i1A.avif",
-    "tags": []
+    "tags": [
+      "fantasy",
+      "sci-fi",
+      "grimdark",
+      "comedic"
+    ]
   },
   {
     "label": "The Expansion",
@@ -1656,7 +2228,11 @@
     },
     "id": "VtJJ_Du4Xqap4B3hGuRS2Q",
     "image": "PRWIttvAV4Wxg5oQfMYy5g.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "web-serial"
+    ]
   },
   {
     "label": "NPCs",
@@ -1668,7 +2244,12 @@
     },
     "id": "UFp-xxW_VgWYrBgMh0sSNQ",
     "image": "dnjtP3pyXxeqdSRBePYPjg.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "comedic",
+      "web-serial"
+    ]
   },
   {
     "label": "Antimage",
@@ -1681,7 +2262,11 @@
     },
     "id": "JsnXWhK4Vri9GWkBZzewaA",
     "image": "Zsc21dKvUUKNMxlMAtYjPA.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "web-serial"
+    ]
   },
   {
     "label": "Forge Master",
@@ -1693,7 +2278,12 @@
     },
     "id": "GIwr5h4OW2ugVgqy4T-lPA",
     "image": "932-BwZWXo68ybHLgdJNsQ.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "tower-climbing",
+      "web-serial"
+    ]
   },
   {
     "label": "Furies of Calderon",
@@ -1706,7 +2296,11 @@
     },
     "id": "DlwMkcz5UMe3Phl-XiIODA",
     "image": "Sgg4yPBqUkuWfNkwnI1j2A.avif",
-    "tags": []
+    "tags": [
+      "fantasy",
+      "epic-fantasy",
+      "progression-fantasy"
+    ]
   },
   {
     "label": "The Shadow of What Was Lost",
@@ -1720,7 +2314,10 @@
     },
     "id": "9PCaZiwJWmeupunxBAx3-g",
     "image": "RVp7-Z8uVj-ndjA5UbqcnQ.avif",
-    "tags": []
+    "tags": [
+      "fantasy",
+      "epic-fantasy"
+    ]
   },
   {
     "label": "The Black Prism",
@@ -1734,7 +2331,11 @@
     },
     "id": "6OXOTY_cWcuNkfupU9gpDQ",
     "image": "xvV6jJp7V6WdadWD2hIaNA.avif",
-    "tags": []
+    "tags": [
+      "fantasy",
+      "epic-fantasy",
+      "progression-fantasy"
+    ]
   },
   {
     "label": "The Hedge Wizard",
@@ -1746,7 +2347,11 @@
     },
     "id": "5CTgpbzmWuuIL7I9IkHkYw",
     "image": "vy1y65WYU72V4UXue9pn5w.avif",
-    "tags": []
+    "tags": [
+      "progression-fantasy",
+      "fantasy",
+      "web-serial"
+    ]
   },
   {
     "label": "Stray Cat Strut: A Young Lady's Journey to Becoming a Pop-Up Samurai",
@@ -1758,7 +2363,14 @@
     },
     "id": "4GNu9v1uVTy6Cjx9_Og-xQ",
     "image": "cBmlcsHPXCS4Ei2DZ6324A.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "sci-fi",
+      "system-apocalypse",
+      "comedic",
+      "web-serial"
+    ]
   },
   {
     "label": "Children of Time",
@@ -1771,7 +2383,11 @@
     },
     "id": "zUCQcCnBU9io-hizkns9Sw",
     "image": "ujX85I6XXTKDniy-VlR7EQ.avif",
-    "tags": []
+    "tags": [
+      "sci-fi",
+      "hard-sci-fi",
+      "space-opera"
+    ]
   },
   {
     "label": "Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch",
@@ -1783,7 +2399,12 @@
     },
     "id": "t3fF3qGaWRmOktNft-1rxA",
     "image": "mgCaDPXZWRag7q6cK_zqww.avif",
-    "tags": []
+    "tags": [
+      "fantasy",
+      "urban-fantasy",
+      "comedic",
+      "satire"
+    ]
   },
   {
     "label": "Rise of the Living Forge",
@@ -1795,7 +2416,11 @@
     },
     "id": "s2tSWW8XWtmeEBxLob_51g",
     "image": "i_G8IR-QVfKzCHy2qgO3Ww.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "web-serial"
+    ]
   },
   {
     "label": "Human Insanity",
@@ -1806,7 +2431,12 @@
     },
     "id": "mTnQpeHZVXyfDmAd67PIyw",
     "image": "A8Y4eR5bW_6fsjjOr93MHg.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "isekai",
+      "web-serial"
+    ]
   },
   {
     "label": "Catch-22",
@@ -1819,7 +2449,10 @@
     },
     "id": "LVKf4XT6XIaDfBzr1Egdsg",
     "image": "ZSINMmj4W-O6Ql6pJEbpNg.avif",
-    "tags": []
+    "tags": [
+      "classic",
+      "satire"
+    ]
   },
   {
     "label": "Reborn: Apocalypse Volume 1",
@@ -1830,7 +2463,12 @@
     },
     "id": "3u0wmudSURO8ZFMrFdZw1A",
     "image": "FCpdYomvUr6AV668nkelhg.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "system-apocalypse",
+      "web-serial"
+    ]
   },
   {
     "label": "Neuromancer",
@@ -1843,7 +2481,11 @@
     },
     "id": "ybJWtFLwVoe7fUQIiQ04nw",
     "image": "jLixYMEKX9OblMKMu6jJZw.avif",
-    "tags": []
+    "tags": [
+      "sci-fi",
+      "cyberpunk",
+      "classic"
+    ]
   },
   {
     "label": "Path of the Berserker",
@@ -1855,7 +2497,11 @@
     },
     "id": "xKt6mCJLUGarBDDpODzSYg",
     "image": "Xh17q9IZWSqJGNN5jkYUAw.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "web-serial"
+    ]
   },
   {
     "label": "Promise of Blood",
@@ -1869,7 +2515,10 @@
     },
     "id": "wCPJdqOQXF6zB85U-DbpfQ",
     "image": "qeq0cmrlVxq42onYzCKh1A.avif",
-    "tags": []
+    "tags": [
+      "fantasy",
+      "epic-fantasy"
+    ]
   },
   {
     "label": "Dungeon Diving 101",
@@ -1881,7 +2530,11 @@
     },
     "id": "vrq4SyZRUheWjHskqc_Acg",
     "image": "qQa0HvbJVJy_o6fJaQGGWg.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "web-serial"
+    ]
   },
   {
     "label": "Ascend Online",
@@ -1894,7 +2547,11 @@
     },
     "id": "pnM9Go_mW-eOF1OINIWO4Q",
     "image": "7NaPd8YWVleyCjBowOL3XA.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "virtual-reality",
+      "progression-fantasy"
+    ]
   },
   {
     "label": "Shadow Slave: Book1",
@@ -1906,7 +2563,12 @@
     },
     "id": "nebYV2fnUam0w0ivECI4Bw",
     "image": "Rmj9jf1CXqy9OMQ1hRXoxA.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "dark",
+      "web-serial"
+    ]
   },
   {
     "label": "The Traveler's Gate Trilogy",
@@ -1918,7 +2580,11 @@
     },
     "id": "lzC9pAY7UzucBW-g3ZhVvQ",
     "image": "xK_hsJU2XgW27iilxdQE2A.avif",
-    "tags": []
+    "tags": [
+      "progression-fantasy",
+      "fantasy",
+      "web-serial"
+    ]
   },
   {
     "label": "Theft of Swords",
@@ -1931,7 +2597,11 @@
     },
     "id": "lZGqSFydUQazrTyDivQ-4Q",
     "image": "3BKBHcW7XRiVP9PVetQbuQ.avif",
-    "tags": []
+    "tags": [
+      "fantasy",
+      "epic-fantasy",
+      "comedic"
+    ]
   },
   {
     "label": "Discount Dan",
@@ -1942,7 +2612,12 @@
     },
     "id": "hyHpjDYIUsOT-LmWCajILg",
     "image": "2jRjMctKUD6kQLtpAeA0VQ.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "comedic",
+      "web-serial"
+    ]
   },
   {
     "label": "The Sword of Kaigen",
@@ -1953,7 +2628,10 @@
     },
     "id": "hDG1ddiwX5etm0tB3QpncQ",
     "image": "dL2oSB82VReRq6pJTIHexQ.avif",
-    "tags": []
+    "tags": [
+      "fantasy",
+      "dark"
+    ]
   },
   {
     "label": "Electric Angel",
@@ -1967,7 +2645,13 @@
     },
     "id": "h9c2d2gEU0Ocfn0l81VJjQ",
     "image": "F1cmahWFWoe4ewPJ6QZ2Bw.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "sci-fi",
+      "cyberpunk",
+      "system-apocalypse",
+      "web-serial"
+    ]
   },
   {
     "label": "Rune Seeker",
@@ -1979,7 +2663,11 @@
     },
     "id": "f4en_ys_VbirODZrdWTVPw",
     "image": "Txyc0zsXWrGzYRiMTqtx9w.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "web-serial"
+    ]
   },
   {
     "label": "Slaughterhouse 5",
@@ -1991,7 +2679,11 @@
     },
     "id": "czJULgfaWB-TTxH5AYBXEw",
     "image": "y1sz2UV3USSNhE0Cj2utmg.avif",
-    "tags": []
+    "tags": [
+      "classic",
+      "satire",
+      "sci-fi"
+    ]
   },
   {
     "label": "The Bystander",
@@ -2005,7 +2697,11 @@
     },
     "id": "OvSr-RrIVE-0qAFw4YMABg",
     "image": "8UGVrljSX1a1pUhdyuWqDQ.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "web-serial"
+    ]
   },
   {
     "label": "The Tainted Cup",
@@ -2018,7 +2714,10 @@
     },
     "id": "MoIyoxz8UHmYrzi2CmSQ8g",
     "image": "EOma0gSTVsK4cdJzVJQZzA.avif",
-    "tags": []
+    "tags": [
+      "fantasy",
+      "mystery"
+    ]
   },
   {
     "label": "Eragon",
@@ -2032,7 +2731,11 @@
     },
     "id": "IPR9NAzaVHOMBOKm_ffhhw",
     "image": "15y6aAaPWMWFj34vY_YUoA.avif",
-    "tags": []
+    "tags": [
+      "fantasy",
+      "epic-fantasy",
+      "ya"
+    ]
   },
   {
     "label": "Empire of Silence",
@@ -2045,7 +2748,11 @@
     },
     "id": "H_62ApIMXQuiaA3-D3oWYw",
     "image": "W1F-GvTFXbCa-f98M23qNw.avif",
-    "tags": []
+    "tags": [
+      "sci-fi",
+      "space-opera",
+      "epic-fantasy"
+    ]
   },
   {
     "label": "The Gunslinger",
@@ -2058,7 +2765,11 @@
     },
     "id": "F-hdf40iVTumBEuOoQUaSg",
     "image": "__-P_6BxXY-nrGfC4crwIQ.avif",
-    "tags": []
+    "tags": [
+      "fantasy",
+      "dark",
+      "sci-fi"
+    ]
   },
   {
     "label": "Fourth Wing",
@@ -2071,7 +2782,11 @@
     },
     "id": "DehLVBtVXkaeRNSOkWnSDA",
     "image": "3lSCkBxUUsasMklr0eUmgg.avif",
-    "tags": []
+    "tags": [
+      "fantasy",
+      "progression-fantasy",
+      "romance"
+    ]
   },
   {
     "label": "1984",
@@ -2084,7 +2799,11 @@
     },
     "id": "DPu19tefVfeOps95i6krnA",
     "image": "wrm33earVN2AtAerN6IWrw.avif",
-    "tags": []
+    "tags": [
+      "classic",
+      "dystopian",
+      "sci-fi"
+    ]
   },
   {
     "label": "Blackmist",
@@ -2096,7 +2815,12 @@
     },
     "id": "B6l93EgXU2CI-zVnDzIPiQ",
     "image": "x5ZY0oKoU1mAaBhPpXOsgA.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "comedic",
+      "web-serial"
+    ]
   },
   {
     "label": "Spellmonger",
@@ -2108,7 +2832,11 @@
     },
     "id": "9-pLktwyUH-kaeRFkNrvmg",
     "image": "lquzWwAJW0-ply8Bsqc0sw.avif",
-    "tags": []
+    "tags": [
+      "progression-fantasy",
+      "fantasy",
+      "web-serial"
+    ]
   },
   {
     "label": "Apocalypse Tamer",
@@ -2120,7 +2848,12 @@
     },
     "id": "5GkfDeH5W2W0B9cWGD3Yfw",
     "image": "GgKwyu5cVnqjZbJa3p9vVA.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "system-apocalypse",
+      "web-serial"
+    ]
   },
   {
     "label": "Wizard's First Rule",
@@ -2133,7 +2866,10 @@
     },
     "id": "ych-Jv0JWEWIai-z0Jrnzg",
     "image": "6I8wEU_wWcmk7_zs9f4M3g.avif",
-    "tags": []
+    "tags": [
+      "fantasy",
+      "epic-fantasy"
+    ]
   },
   {
     "label": "Pride and Prejudice",
@@ -2145,7 +2881,10 @@
     },
     "id": "szjY4flHW8uSi7w0WkO3jg",
     "image": "7JngCAHXV5KG0HBsotoxFg.avif",
-    "tags": []
+    "tags": [
+      "classic",
+      "romance"
+    ]
   },
   {
     "label": "The Lion, the Witch and the Wardrobe",
@@ -2158,7 +2897,11 @@
     },
     "id": "ga_OgowjUGGvmAuEgRWq0w",
     "image": "PuzfSEEPWACuM7fWsROaXQ.avif",
-    "tags": []
+    "tags": [
+      "fantasy",
+      "portal-fantasy",
+      "ya"
+    ]
   },
   {
     "label": "Curious Beginnings",
@@ -2170,7 +2913,11 @@
     },
     "id": "Wfu_QwhFXxGo2vaey0yrQw",
     "image": "nzH5tzWiU_GcL6n4UNWHMA.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "web-serial"
+    ]
   },
   {
     "label": "Six Sacred Swords",
@@ -2182,7 +2929,12 @@
     },
     "id": "RReSBGl-WSubU1RuZwU9vQ",
     "image": "iwk3jxG2V3isk0MW4te5tg.avif",
-    "tags": []
+    "tags": [
+      "progression-fantasy",
+      "fantasy",
+      "comedic",
+      "web-serial"
+    ]
   },
   {
     "label": "Brave New World",
@@ -2194,7 +2946,11 @@
     },
     "id": "Pzuj45SbUvKPav4mzgt_Rg",
     "image": "aFKAje7FW4yuHQ-XrdX3gA.avif",
-    "tags": []
+    "tags": [
+      "classic",
+      "dystopian",
+      "sci-fi"
+    ]
   },
   {
     "label": "The Kaiju Preservation Society",
@@ -2207,7 +2963,10 @@
     },
     "id": "P4GRYneQX9y6Fgf83xyGEQ",
     "image": "zthvEOwnVbigp59_RxHM7w.avif",
-    "tags": []
+    "tags": [
+      "sci-fi",
+      "comedic"
+    ]
   },
   {
     "label": "Cataclysm",
@@ -2219,7 +2978,11 @@
     },
     "id": "KrM2heokW_mGFebKWpBZ_w",
     "image": "O3wMT3IuUPqOI86H0PJkGw.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "virtual-reality",
+      "progression-fantasy"
+    ]
   },
   {
     "label": "Monsters and Legends",
@@ -2231,7 +2994,12 @@
     },
     "id": "GTSgW3OsXXO0yD6zhaek_g",
     "image": "d-BmtTPmWFec6dUqZ0LngQ.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "virtual-reality",
+      "progression-fantasy",
+      "web-serial"
+    ]
   },
   {
     "label": "Sylver Seeker",
@@ -2243,7 +3011,11 @@
     },
     "id": "6cwFgYR5X9SIzZNZifo7iw",
     "image": "xjrgraszUJWUPdU3nkStMw.avif",
-    "tags": []
+    "tags": [
+      "lit-rpg",
+      "progression-fantasy",
+      "web-serial"
+    ]
   },
   {
     "label": "Kings of the Wyld",
@@ -2257,7 +3029,11 @@
     },
     "id": "5mVaRxsnXJCOoQvbQzEWvw",
     "image": "lRjlDqy8VHex0DPFdVZibw.avif",
-    "tags": []
+    "tags": [
+      "fantasy",
+      "epic-fantasy",
+      "comedic"
+    ]
   },
   {
     "label": "Oryx and Crake",
@@ -2270,6 +3046,10 @@
     },
     "id": "2xV_B3DoUj2UYTHScT9lxg",
     "image": "vougAheNW-OBjrpTWpphkw.avif",
-    "tags": []
+    "tags": [
+      "sci-fi",
+      "dystopian",
+      "biopunk"
+    ]
   }
 ]
