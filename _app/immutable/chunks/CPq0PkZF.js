@@ -1,1 +1,0 @@
-import{o as t,q as i,ak as c,m as f}from"./XWMMX-Ew.js";import{B as y}from"./C7Strx0N.js";const m=Symbol("NaN");function b(r,e,n){t&&i();var o=new y(r),s=!c();f(()=>{var a=e();a!==a&&(a=m),s&&a!==null&&typeof a=="object"&&(a={}),o.ensure(a,n)})}export{b as k};

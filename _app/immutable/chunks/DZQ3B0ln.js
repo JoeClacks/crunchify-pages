@@ -1,1 +1,0 @@
-import{D as f,m as o,ad as u,ae as _,o as t,M as g,a4 as i,y as l,x as d,z as m,K as p}from"./XWMMX-Ew.js";function x(n,r){let a=null,y=t;var s;if(t){a=m;for(var e=p(document.head);e!==null&&(e.nodeType!==g||e.data!==n);)e=i(e);if(e===null)l(!1);else{var E=i(e);e.remove(),d(E)}}t||(s=document.head.appendChild(f()));try{o(()=>r(s),u|_)}finally{y&&(l(!0),d(a))}}export{x as h};
